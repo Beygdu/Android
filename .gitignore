@@ -1,0 +1,24 @@
+# Mani Elmarsson
+# Git Ignore Files
+
+# Application Build files
+*.apk
+*.ap_
+
+# Generated Files
+bin/
+gen/
+
+# Gradle Files
+.gradle/
+build/
+
+# Local Configuration Files
+local.properties
+
+# Eclipse Generated Files
+proguard/
+
+# Logs
+*.log
+*.dex
