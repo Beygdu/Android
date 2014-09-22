@@ -1,6 +1,6 @@
 package com.example.githubverktest;
 
-import android.R;
+import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -13,8 +13,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    
-    // Thtett er test
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
